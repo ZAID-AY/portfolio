@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap");
+/* html {
+  scroll-behavior: smooth;
+} */
+
+* {
+  font-family: "SUSE", sans-serif;
+
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.border {
+  border: 4px solid red;
+}
+
+.imgRad {
+  border-radius: 10px;
+}
+
+.box{
+    background: rgba(253, 250, 250, 0.425);
+    padding:20px;
+    border-radius:20px;
+}
+.box-contact{
+  background: rgba(43, 40, 58, 0.26);
+  padding:30px;
+  border-radius:20px;
+}
