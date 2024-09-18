@@ -2,7 +2,7 @@
   "name": "zaid-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/myPortfolio",
+  "homepage": "https://ZAID-AY.github.io/portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
